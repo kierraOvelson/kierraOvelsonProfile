@@ -112,6 +112,8 @@ textarea {
   main {
     padding: 10px;
     margin-bottom: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
   }
   header {
     background: linear-gradient(to top, #1b0e29, #030205);
@@ -146,6 +148,9 @@ textarea {
   }
   h1, h2 , h3 {
     font-family: 'Bellota', cursive;
+  }
+  .h2-divider {
+    margin-bottom: 20px;
   }
   .header-container {
     display: flex;
